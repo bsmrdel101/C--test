@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "main":"Chumbo the dragon has scouraged this land far too long, only you can stop him.\nWhere do you go first?",
+    "options": [
+      {"text": "Go home", "next": 2},
+      {"text": "walk down the trail", "next": 3}
+    ]
+  },
+  {
+    "id": 2,
+    "main":"Uh oh you died",
+    "options": [
+      {"text": "Restart", "next": 1},
+      {"text": "Exit", "next": 0}
+    ]
+  },
+  {
+    "id": 3,
+    "main":"Dragon be dead now, you win!",
+    "options": [
+      {"text": "Restart", "next": 1},
+      {"text": "Exit", "next": 0}
+    ]
+  }
+]
