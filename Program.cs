@@ -7,4 +7,4 @@ Inventory inventory = new Inventory();
 Item sword = new Item("Sword", 6, DamageType.Slashing);
 Item dagger = new Item("Dagger", 3, DamageType.Piercing);
 
-new DialogueManager().Start();
+new DialogueManager(inventory).Start();

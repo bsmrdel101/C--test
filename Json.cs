@@ -26,4 +26,19 @@ struct Option
 {
   public string text { get; set; }
   public int next { get; set; }
+  public Event[] events { get; set; }
+}
+
+struct Event
+{
+  public string name { get; set; }
+  public EventData data { get; set; }
+}
+
+struct EventData
+{
+  public string name { get; set; }
+  public int qty { get; set; }
+  public int dmg { get; set; }
+  public string dmgType { get; set; }
 }
