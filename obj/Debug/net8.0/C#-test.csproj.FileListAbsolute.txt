@@ -12,3 +12,4 @@ C:\Users\BennettSmrdel\Documents\repos\Other\C#-test\obj\Debug\net8.0\refint\C#-
 C:\Users\BennettSmrdel\Documents\repos\Other\C#-test\obj\Debug\net8.0\C#-test.pdb
 C:\Users\BennettSmrdel\Documents\repos\Other\C#-test\obj\Debug\net8.0\C#-test.genruntimeconfig.cache
 C:\Users\BennettSmrdel\Documents\repos\Other\C#-test\obj\Debug\net8.0\ref\C#-test.dll
+C:\Users\BennettSmrdel\Documents\repos\Other\C#-test\obj\Debug\net8.0\C#-test.sourcelink.json
